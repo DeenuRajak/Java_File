@@ -1,3 +1,4 @@
+package _01_BasicsofJava;
 //For take input from user
 import java.util.Scanner;
 public class userInput {

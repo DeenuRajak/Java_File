@@ -1,3 +1,4 @@
+package _01_BasicsofJava;
 public class ifelse {
     public static void main(String []args){
         int score= 98;
